@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vibha5145" target="blank"><img src="https://img.shields.io/twitter/follow/vibha5145?logo=twitter&style=for-the-badge" alt="vibha5145" /></a> </p>
 
-- 🌱 I’m currently learning **Java+D.S.A , Devops**
+- 🌱 I’m currently learning **Java + D.S.A , Devops**
 
 - 📫 How to reach me **sharmavibha11@yahoo.com**
 
