@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **sharmavibha11@yahoo.com**
 
-- ⚡ Fun fact: **I'm a bba student**
+- ⚡ Fun fact: **I'm a BBA student**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
