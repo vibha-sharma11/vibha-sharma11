@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibha-sharma11" alt="vibha-sharma11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vibha5145" target="blank"><img src="https://img.shields.io/twitter/follow/vibha5145?logo=twitter&style=for-the-badge" alt="vibha5145" /></a> </p>
 
 - 🌱 I’m currently learning **Java + D.S.A and DevOps**
 
