@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Java + D.S.A and DevOps**
 
-- 📫 How to reach me: **sharmavibha11@yahoo.com**
+- 📫 How to reach me: **sharmavibha11@yahoo.com** / **vibhas5235@gmail.com**
 
-- ⚡ Fun fact: **I'm a BBA student**
+- ⚡ Fun fact: **I'm a MBA business analytics student**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
