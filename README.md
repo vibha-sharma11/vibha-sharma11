@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibha-sharma11" alt="vibha-sharma11" /></a> </p>
 
 
-- 🌱 **Leveling up my data analysis game , one query at a time.**
+- 🌱 **Leveling up my Data Understanding Game Every single day.**
 
 - 📫 How to reach me: **sharmavibha11@yahoo.com** / **vibhas5235@gmail.com**
 
