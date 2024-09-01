@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vibha Sharma</h1>
-<h3 align="center">Aspiring DATA ANALYST.</h3>
+
 <h3 align="center">Elevating my skillset to bridge the gap between data and knowledge.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibha-sharma11" alt="vibha-sharma11" /></a> </p>
 
